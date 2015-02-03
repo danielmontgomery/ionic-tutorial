@@ -1,0 +1,9 @@
+{
+  "firebase": "ion-todo",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
